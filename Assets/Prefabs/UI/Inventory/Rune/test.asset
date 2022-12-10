@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddeb975c3a52745409cc671aa40a9b76, type: 3}
+  m_Name: test
+  m_EditorClassIdentifier: 
+  runeName: test rune
+  runeDescription: test rune description
+  runeIcon: {fileID: 878443004839139566, guid: 30ef991a92038f244828251233dd9a88, type: 3}
